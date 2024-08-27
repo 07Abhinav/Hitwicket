@@ -1,6 +1,4 @@
-Here's a `README.md` file for your Flask application with WebSocket integration:
 
----
 
 # Flask Game with WebSocket Integration
 
